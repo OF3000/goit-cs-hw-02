@@ -1,0 +1,4 @@
+set-cookie: guest_id_marketing=v1%3A172209778996886489; Max-Age=63072000; Expires=Mon, 27 Jul 2026 16:29:49 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id_ads=v1%3A172209778996886489; Max-Age=63072000; Expires=Mon, 27 Jul 2026 16:29:49 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: personalization_id="v1_KUMTpdxhrGWPEU1P7JrO1Q=="; Max-Age=63072000; Expires=Mon, 27 Jul 2026 16:29:49 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id=v1%3A172209778996886489; Max-Age=63072000; Expires=Mon, 27 Jul 2026 16:29:49 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
